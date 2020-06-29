@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![App Demo Link](https://github.com/maxinenzegwu/Flixster/raw/master/Kapture%202020-06-26%20at%200.29.57.gif)
+![App Demo Link](https://github.com/maxinenzegwu/Flixster/raw/master/Kapture%202020-06-28%20at%2022.27.41.gif)
 
 ## Open-source libraries used
 
